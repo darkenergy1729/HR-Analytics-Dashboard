@@ -22,8 +22,7 @@ This project presents an end-to-end HR Analytics solution built using Python, My
 - MySQL
 - Power BI
 - DAX
-- Microsoft Excel
-
+  
 ---
 
 ## Data Preparation (Python)
